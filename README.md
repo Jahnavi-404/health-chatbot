@@ -1,10 +1,10 @@
-DESCRIPTION ABOUT DRUG
+# 🧪 DESCRIPTION ABOUT DRUG
 
 
 A user-friendly Health Chatbot built with Python and Streamlit to provide accurate drug information such as side effects, active ingredients, and dosages by integrating with the OpenFDA API. The chatbot includes advanced features like error handling, user input validation, and spell-check suggestions to ensure an enhanced user experience.
 
 
-FEATURES
+## 🚀 FEATURES
 
 1.Drug Information Query: Fetch detailed drug information such as side effects, active ingredients, and dosages using the OpenFDA API.
 
@@ -14,7 +14,7 @@ FEATURES
 
 4.API Integration:  Integration with the OpenFDA API for real-time drug data fetching.
 
-INSTALLATION
+## ✅ INSTALLATION
 
 1. Clone the repository:
 
@@ -31,7 +31,7 @@ streamlit run app.py
 
 4. The application will be available in your browser at http://localhost:8501.
 
-TECHNOLOGIES USED
+## 📊 TECHNOLOGIES USED
 
 1.Python: Core language for the application.
 
@@ -42,7 +42,7 @@ TECHNOLOGIES USED
 4.NLP & Spell-Check: For error handling and user input validation.
 
 
-USAGE
+## 🧠 USAGE
 
 1.Enter the name of a drug in the input field.
 
@@ -58,7 +58,7 @@ USAGE
            
 3.In case of a spelling error, the bot will suggest corrections.
 
-CONTRIBUTING
+## 📌 CONTRIBUTING
 
 1.Fork the repository.
 
